@@ -6,7 +6,7 @@ Simple project from first semester of my studies.
 Written in C++ following Object Oriented Programming principles
 
 ## Usage
-Just type the following in the game folder
+Just type the following in the terminal in the game folder
 
 ```bash
 ./szachy
